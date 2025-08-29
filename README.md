@@ -1,12 +1,25 @@
-# React + Vite
+# 🌐 Portfólio  
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este é o repositório do meu **portfólio pessoal**, desenvolvido para apresentar minhas habilidades, projetos e ferramentas que estou aprendendo no mundo do desenvolvimento web.  
 
-Currently, two official plugins are available:
+## ✨ Sobre o Projeto  
+O portfólio foi construído com foco em **design moderno, responsividade e performance**, servindo como um espaço para mostrar quem sou, minhas experiências e meus projetos.  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🛠️ Tecnologias Utilizadas  
+- **Front-end:** React
+- **Estilo & UI:** TailwindCSS 
 
-## Expanding the ESLint configuration
+## 📌 Seções do Portfólio  
+- **Sobre Mim:** Um pouco da minha trajetória e ferramentas que estou aprendendo.  
+- **Habilidades:** Front-end, Back-end e Automações.  
+- **Projetos:** Trabalhos desenvolvidos e contribuições em andamento.  
+- **Contato:** Links para redes sociais e formas de me encontrar.  
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🚀 Como Rodar Localmente  
+Clone o repositório e instale as dependências:  
+
+```bash
+git clone https://github.com/GuhMonarin/portifolio.git
+cd portifolio
+npm install
+npm run dev
